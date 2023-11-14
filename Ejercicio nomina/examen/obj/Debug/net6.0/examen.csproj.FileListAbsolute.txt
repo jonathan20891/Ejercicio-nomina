@@ -1,0 +1,45 @@
+C:\Users\jonat\OneDrive\Escritorio\curso\c#\examen\examen\bin\Debug\net6.0\examen.exe
+C:\Users\jonat\OneDrive\Escritorio\curso\c#\examen\examen\bin\Debug\net6.0\examen.deps.json
+C:\Users\jonat\OneDrive\Escritorio\curso\c#\examen\examen\bin\Debug\net6.0\examen.runtimeconfig.json
+C:\Users\jonat\OneDrive\Escritorio\curso\c#\examen\examen\bin\Debug\net6.0\examen.dll
+C:\Users\jonat\OneDrive\Escritorio\curso\c#\examen\examen\bin\Debug\net6.0\examen.pdb
+C:\Users\jonat\OneDrive\Escritorio\curso\c#\examen\examen\obj\Debug\net6.0\examen.csproj.AssemblyReference.cache
+C:\Users\jonat\OneDrive\Escritorio\curso\c#\examen\examen\obj\Debug\net6.0\examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\Escritorio\curso\c#\examen\examen\obj\Debug\net6.0\examen.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Escritorio\curso\c#\examen\examen\obj\Debug\net6.0\examen.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Escritorio\curso\c#\examen\examen\obj\Debug\net6.0\examen.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Escritorio\curso\c#\examen\examen\obj\Debug\net6.0\examen.dll
+C:\Users\jonat\OneDrive\Escritorio\curso\c#\examen\examen\obj\Debug\net6.0\refint\examen.dll
+C:\Users\jonat\OneDrive\Escritorio\curso\c#\examen\examen\obj\Debug\net6.0\examen.pdb
+C:\Users\jonat\OneDrive\Escritorio\curso\c#\examen\examen\obj\Debug\net6.0\examen.genruntimeconfig.cache
+C:\Users\jonat\OneDrive\Escritorio\curso\c#\examen\examen\obj\Debug\net6.0\ref\examen.dll
+C:\Users\jonat\OneDrive\Escritorio\curso\c#\Ejercicio nomina\examen\bin\Debug\net6.0\examen.exe
+C:\Users\jonat\OneDrive\Escritorio\curso\c#\Ejercicio nomina\examen\bin\Debug\net6.0\examen.deps.json
+C:\Users\jonat\OneDrive\Escritorio\curso\c#\Ejercicio nomina\examen\bin\Debug\net6.0\examen.runtimeconfig.json
+C:\Users\jonat\OneDrive\Escritorio\curso\c#\Ejercicio nomina\examen\bin\Debug\net6.0\examen.dll
+C:\Users\jonat\OneDrive\Escritorio\curso\c#\Ejercicio nomina\examen\bin\Debug\net6.0\examen.pdb
+C:\Users\jonat\OneDrive\Escritorio\curso\c#\Ejercicio nomina\examen\obj\Debug\net6.0\examen.csproj.AssemblyReference.cache
+C:\Users\jonat\OneDrive\Escritorio\curso\c#\Ejercicio nomina\examen\obj\Debug\net6.0\examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\Escritorio\curso\c#\Ejercicio nomina\examen\obj\Debug\net6.0\examen.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Escritorio\curso\c#\Ejercicio nomina\examen\obj\Debug\net6.0\examen.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Escritorio\curso\c#\Ejercicio nomina\examen\obj\Debug\net6.0\examen.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Escritorio\curso\c#\Ejercicio nomina\examen\obj\Debug\net6.0\examen.dll
+C:\Users\jonat\OneDrive\Escritorio\curso\c#\Ejercicio nomina\examen\obj\Debug\net6.0\refint\examen.dll
+C:\Users\jonat\OneDrive\Escritorio\curso\c#\Ejercicio nomina\examen\obj\Debug\net6.0\examen.pdb
+C:\Users\jonat\OneDrive\Escritorio\curso\c#\Ejercicio nomina\examen\obj\Debug\net6.0\examen.genruntimeconfig.cache
+C:\Users\jonat\OneDrive\Escritorio\curso\c#\Ejercicio nomina\examen\obj\Debug\net6.0\ref\examen.dll
+C:\Users\jonat\OneDrive\Escritorio\curso Tajamar\c#\Ejercicio nomina\examen\bin\Debug\net6.0\examen.exe
+C:\Users\jonat\OneDrive\Escritorio\curso Tajamar\c#\Ejercicio nomina\examen\bin\Debug\net6.0\examen.deps.json
+C:\Users\jonat\OneDrive\Escritorio\curso Tajamar\c#\Ejercicio nomina\examen\bin\Debug\net6.0\examen.runtimeconfig.json
+C:\Users\jonat\OneDrive\Escritorio\curso Tajamar\c#\Ejercicio nomina\examen\bin\Debug\net6.0\examen.dll
+C:\Users\jonat\OneDrive\Escritorio\curso Tajamar\c#\Ejercicio nomina\examen\bin\Debug\net6.0\examen.pdb
+C:\Users\jonat\OneDrive\Escritorio\curso Tajamar\c#\Ejercicio nomina\examen\obj\Debug\net6.0\examen.csproj.AssemblyReference.cache
+C:\Users\jonat\OneDrive\Escritorio\curso Tajamar\c#\Ejercicio nomina\examen\obj\Debug\net6.0\examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\Escritorio\curso Tajamar\c#\Ejercicio nomina\examen\obj\Debug\net6.0\examen.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Escritorio\curso Tajamar\c#\Ejercicio nomina\examen\obj\Debug\net6.0\examen.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Escritorio\curso Tajamar\c#\Ejercicio nomina\examen\obj\Debug\net6.0\examen.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Escritorio\curso Tajamar\c#\Ejercicio nomina\examen\obj\Debug\net6.0\examen.dll
+C:\Users\jonat\OneDrive\Escritorio\curso Tajamar\c#\Ejercicio nomina\examen\obj\Debug\net6.0\refint\examen.dll
+C:\Users\jonat\OneDrive\Escritorio\curso Tajamar\c#\Ejercicio nomina\examen\obj\Debug\net6.0\examen.pdb
+C:\Users\jonat\OneDrive\Escritorio\curso Tajamar\c#\Ejercicio nomina\examen\obj\Debug\net6.0\examen.genruntimeconfig.cache
+C:\Users\jonat\OneDrive\Escritorio\curso Tajamar\c#\Ejercicio nomina\examen\obj\Debug\net6.0\ref\examen.dll
